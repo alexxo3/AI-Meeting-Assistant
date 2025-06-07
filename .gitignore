@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# Output or temporary directories
+Output/
+*.log
+
+# Audio/Video/Temporary Inputs
+Input/*.tmp
+*.wav
+*.mp3
+*.mp4
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# pipenv
+Pipfile.lock
+
+# coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# pyright or other tooling
+.pyright/
